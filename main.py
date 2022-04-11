@@ -38,4 +38,4 @@ async def get_bank_data():
     users = json.load(f)
   return users
   
-client.run("OTYyOTI1NjYwNDY3MjYxNDgw.YlOoZw.0evhFloaKhWPbP5RI8iQNOPn7y0")
+client.run("INSERT TOKEN HERE")
